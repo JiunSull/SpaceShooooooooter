@@ -78,6 +78,7 @@
     <Compile Include="Assets\Scripts\Mover.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RandomRotator.cs" />
+    <Compile Include="Assets\Scripts\ScrollingTexture.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/ucode/Downloads/SpaceShoooooter/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

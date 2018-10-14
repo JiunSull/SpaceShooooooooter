@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{FB65B29F-28A4-B3FF-2409-A2B8713C6D72}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScrollingTexture.cs">
     <Files>
       <File FileName="Assets/Scripts/DestroyByBoundary.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/PlayerController.cs" Line="36" Column="30" />
@@ -8,6 +8,7 @@
       <File FileName="Assets/Scripts/DestroyByContact.cs" Line="52" Column="39" />
       <File FileName="Assets/Scripts/GameCOntroller.cs" Line="52" Column="30" />
       <File FileName="Assets/Scripts/DestroyByTime.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/ScrollingTexture.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
